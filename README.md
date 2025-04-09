@@ -37,6 +37,18 @@ tp1_1.exe
 ¿Cuál cree que no hace falta que esté?
 El archivo tp1_1.exe no hace falta que este subido, dado que se genera de manera automatica con el codigo fuente y no aporta valor al desarrollo del proyecto.
 
+### apartado g
+
+Si resolvió correctamente los apartados 2 y 3 del punto anterior notará
+que el resultado es el mismo. 
+
+ ¿A qué se debe?
+
+En los apartados 2 y 3 se obtiene el mismo resultado porque ambos muestran la dirección de memoria de la variable numero. En el apartado 2 lo vemos a través del puntero (que apunta a numero) y en el apartado 3 se accede directamente con &numero.
+
+¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?
+
+ En el apartado 4 se obtiene una dirección distinta porque se está mostrando la dirección de memoria del puntero, es decir, el lugar donde está guardado el puntero como variable. Esto es diferente del contenido del puntero, que es la dirección de otra variable explicado en el apartado anterior.
 
 
 
